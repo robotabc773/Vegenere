@@ -1,0 +1,20 @@
+p {
+    white-space: pre;
+    font-family: Courier
+}
+
+table {
+border-collapse: collapse;
+}
+
+table, th, td {
+border: 2px solid black;
+}
+
+input {
+    width: 15px
+}
+
+.plaintext {
+    color: red
+}
